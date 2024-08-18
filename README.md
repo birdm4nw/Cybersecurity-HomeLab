@@ -4,6 +4,7 @@
   <img src="images/splunk-logo.png" width="50" height="50">
   <img src="images/windows-icon.png" width="50" height="50">
   <img src="images/linux-icon.png" width="50" height="50">
+  <img src="images/virtualbox.png" width="50" height="50">
 </p>
 
 # Cybersecurity-HomeLab
