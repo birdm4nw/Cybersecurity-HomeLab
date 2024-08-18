@@ -1,6 +1,6 @@
 <p>
   <img src="images/splunk-logo.webp" alt="Splunk" width="100"/>
-  <img src="images/pfsense.png" alt="Python" width="100"/>
+  <img src="images/ad-logo.webp" alt="Python" width="100"/>
 </p>
 
 # Cybersecurity-HomeLab
