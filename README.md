@@ -1,5 +1,5 @@
 <p>
-  <img src="images/linux.svg" width="50" height="50">
+  <img src="images/splunky.png" width="50" height="50">
   <img src="images/splunk-logo.webp" alt="Splunk" width="100"/>
   <img src="images/pfsense-logo.png" alt="Splunk" width="100"/>
   <img src="images/ad-logo.webp" alt="Python" width="120"/>
