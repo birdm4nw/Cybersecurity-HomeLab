@@ -1,5 +1,8 @@
 <p>
   <img src="images/splunk-logo.webp" alt="Splunk" width="100"/>
+  <img src="images/nessus-logo.png" alt="Splunk" width="100"/>
+  <img src="images/pfsense-logo.png" alt="Splunk" width="100"/>
+  <img src="images/linux-logo.png" alt="Splunk" width="100"/>
   <img src="images/ad-logo.webp" alt="Python" width="120"/>
 </p>
 
