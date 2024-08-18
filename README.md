@@ -1,7 +1,7 @@
 <p>
   <img src="images/nessus-icon.png" width="50" height="50"/>
   <img src="images/pfSense.png" width="50" height="50">
-  <img src="images/splunk-circle.png" width="100" height="60">
+  <img src="images/logo-splunk.png" width="100" height="60">
   <img src="images/windows-icon.png" width="50" height="50">
   <img src="images/linux-icon.png" width="50" height="50">
   <img src="images/terminal.png" width="50" height="50">
