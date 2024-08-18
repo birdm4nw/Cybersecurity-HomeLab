@@ -2,6 +2,7 @@
   <img src="images/nessuslogo.png" width="100" height="50"/>
   <img src="images/pfSense.png" width="50" height="50">
   <img src="images/splunk-logo.png" width="50" height="50">
+  <img src="images/windows-icon.png" width="50" height="50">
 </p>
 
 # Cybersecurity-HomeLab
