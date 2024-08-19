@@ -2,7 +2,7 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 
 # Cybersecurity-HomeLab
-
+![Diagram](images/homelab_diagram.jpg)
 This is a comprehensive cybersecurity home lab setup that integrates various technologies and configurations to enhance skills in:
 
 - Network security
