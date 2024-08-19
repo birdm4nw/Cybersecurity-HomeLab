@@ -1,4 +1,4 @@
-| ![pfSense](images/pfSense.png) | ![Nessus](images/nessus-icon.png) | ![Splunk](images/logo-splunk.jpeg) | ![Windows](images/windows-icon.png) | ![Linux](images/linux-icon.png) | ![Terminal](images/terminal.png) | ![VirtualBox](images/virtualbox.png) |
+| ![Windows](images/windows-icon.png) | ![Linux](images/linux-icon.png) | ![Terminal](images/terminal.png)| ![pfSense](images/pfSense.png) | ![Nessus](images/nessus-icon.png) | ![Splunk](images/logo-splunk.jpeg) | ![VirtualBox](images/virtualbox.png) |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 
 # Cybersecurity HomeLab Project
