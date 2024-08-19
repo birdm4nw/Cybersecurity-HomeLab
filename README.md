@@ -22,3 +22,5 @@ This project focuses on the development of a cybersecurity homelab by integratin
 - Management of different operating systems (Linux, Windows, Unix & macOS)
 - Problem-solving 
 - Proficiency with virtualization software (VMWare, VirtualBox)
+
+### 🔗 [View document](Cybersecurity_HomeLab.pdf)
