@@ -3,7 +3,7 @@
 
 # Cybersecurity HomeLab Project
 ![Diagram](images/homelab_diagram.jpg)
-This project focuses on the development of a cybersecurity homelab by integrating various procedures, configurations, and technologies. Its primary objective is to illustrate how different components work together to simulate real-world IT environments on a small scale. The ultimate goal is to enhance understanding of the various security elements that interact to safeguard individuals and organizations in today's digital age.
+> This project focuses on the development of a cybersecurity homelab by integrating various procedures, configurations, and technologies. Its primary objective is to illustrate how different components work together to simulate real-world IT environments on a small scale. The ultimate goal is to enhance understanding of the various security elements that interact to safeguard individuals and organizations in today's digital age.
 
 ## 👨🏼‍💻 Performed tasks:
 - DNS & DHCP servers configuration
