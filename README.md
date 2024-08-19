@@ -7,12 +7,12 @@ This project focuses on the development of a cybersecurity homelab by integratin
 
 ## 👨🏼‍💻 Performed tasks:
 - DNS & DHCP servers configuration
-- Setup **Active Directory** environment
-- Configuring **OpenVPN** via LDAP on AD environment
-- Setting up a firewall (**pfSense**)
+- Set up **Active Directory** environment
+- Configure **OpenVPN** via LDAP on AD environment
+- Set up a firewall (**pfSense**)
 - Monitoring and detecting security events with SIEM platform (**Splunk**)
-- Performing vulnerability scans with **Nessus**
-- Simulating a threat actor behavior using a Raspberry
+- Perform vulnerability scans with **Nessus**
+- Simulate a threat actor behavior using a Raspberry
 - Troubleshooting operations across various operating systems
 
 #### 🧠 Upon completion, this project will allow you to test and apply key skills relevant to the industry, including:
