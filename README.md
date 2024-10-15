@@ -24,7 +24,7 @@ This project focuses on the development of a cybersecurity homelab by integratin
 - Proficiency with virtualization software (VMWare, VirtualBox)
 
 > [!IMPORTANT]
-> 
+> See complete documentation:
 
 🔗 [View document](Cybersecurity_HomeLab.pdf)
 
