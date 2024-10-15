@@ -25,6 +25,7 @@ This project focuses on the development of a cybersecurity homelab by integratin
 
 > [!IMPORTANT]
 > Full documentation here:
+
 🔗 [View document](Cybersecurity_HomeLab.pdf)
 
 **Author:** @birdm4nw
